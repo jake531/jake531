@@ -39,27 +39,3 @@
   ![](https://komarev.com/ghpvc/?username=albindavidc&style=for-the-badge&color=blueviolet) -->
 
 </div>
-
-###
-
-
-<br clear="both">
-
-<!-- <h1 align="center">My Favorites</h1> -->
-
-###
-
-
-<div align="center">
-
-
-
-
-
-
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/albindavidc/albindavidc/output/snake.svg" alt="Snake animation" />
-
-###
